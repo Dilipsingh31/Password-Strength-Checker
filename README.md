@@ -36,6 +36,7 @@ Bootstrap
 ## 🌐 Live Project
 
 👉 Try it here: Password Strength Checker
+That link 👉 http://127.0.0.1:5500/index.html
 
 ## 📧 Contact
 
